@@ -1,0 +1,50 @@
+﻿  Source.cpp
+c:\users\garred\desktop\cst 426 assignment 2\project1\project1\source.cpp(10): error C3646: 'isHappy': unknown override specifier
+c:\users\garred\desktop\cst 426 assignment 2\project1\project1\source.cpp(10): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\garred\desktop\cst 426 assignment 2\project1\project1\source.cpp(11): error C3646: 'isHungry': unknown override specifier
+c:\users\garred\desktop\cst 426 assignment 2\project1\project1\source.cpp(11): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\garred\desktop\cst 426 assignment 2\project1\project1\source.cpp(12): error C3646: 'isTired': unknown override specifier
+c:\users\garred\desktop\cst 426 assignment 2\project1\project1\source.cpp(12): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\garred\desktop\cst 426 assignment 2\project1\project1\source.cpp(16): error C2061: syntax error: identifier 'sim'
+c:\users\garred\desktop\cst 426 assignment 2\project1\project1\source.cpp(18): warning C4091: 'static ': ignored on left of 'EmotionalStateMachine' when no variable is declared
+c:\users\garred\desktop\cst 426 assignment 2\project1\project1\source.cpp(22): error C2061: syntax error: identifier 'sim'
+c:\users\garred\desktop\cst 426 assignment 2\project1\project1\source.cpp(24): error C2065: 'event': undeclared identifier
+c:\users\garred\desktop\cst 426 assignment 2\project1\project1\source.cpp(24): error C2065: 'RUNNING': undeclared identifier
+c:\users\garred\desktop\cst 426 assignment 2\project1\project1\source.cpp(26): error C2065: 'mysim': undeclared identifier
+c:\users\garred\desktop\cst 426 assignment 2\project1\project1\source.cpp(26): error C2228: left of '.setCurrentfeeling' must have class/struct/union
+  c:\users\garred\desktop\cst 426 assignment 2\project1\project1\source.cpp(26): note: type is 'unknown-type'
+c:\users\garred\desktop\cst 426 assignment 2\project1\project1\source.cpp(26): error C2039: 'isTired': is not a member of 'EmotionalStateMachine'
+  c:\users\garred\desktop\cst 426 assignment 2\project1\project1\source.cpp(6): note: see declaration of 'EmotionalStateMachine'
+c:\users\garred\desktop\cst 426 assignment 2\project1\project1\source.cpp(26): error C2065: 'isTired': undeclared identifier
+c:\users\garred\desktop\cst 426 assignment 2\project1\project1\source.cpp(28): error C2065: 'event': undeclared identifier
+c:\users\garred\desktop\cst 426 assignment 2\project1\project1\source.cpp(28): error C2065: 'FASTING': undeclared identifier
+c:\users\garred\desktop\cst 426 assignment 2\project1\project1\source.cpp(30): error C2065: 'mysim': undeclared identifier
+c:\users\garred\desktop\cst 426 assignment 2\project1\project1\source.cpp(30): error C2228: left of '.setCurrentfeeling' must have class/struct/union
+  c:\users\garred\desktop\cst 426 assignment 2\project1\project1\source.cpp(30): note: type is 'unknown-type'
+c:\users\garred\desktop\cst 426 assignment 2\project1\project1\source.cpp(30): error C2039: 'isHungry': is not a member of 'EmotionalStateMachine'
+  c:\users\garred\desktop\cst 426 assignment 2\project1\project1\source.cpp(6): note: see declaration of 'EmotionalStateMachine'
+c:\users\garred\desktop\cst 426 assignment 2\project1\project1\source.cpp(30): error C2065: 'isHungry': undeclared identifier
+c:\users\garred\desktop\cst 426 assignment 2\project1\project1\source.cpp(40): error C2061: syntax error: identifier 'sim'
+c:\users\garred\desktop\cst 426 assignment 2\project1\project1\source.cpp(42): error C2065: 'event': undeclared identifier
+c:\users\garred\desktop\cst 426 assignment 2\project1\project1\source.cpp(42): error C2065: 'EATING': undeclared identifier
+c:\users\garred\desktop\cst 426 assignment 2\project1\project1\source.cpp(44): error C2065: 'mysim': undeclared identifier
+c:\users\garred\desktop\cst 426 assignment 2\project1\project1\source.cpp(44): error C2228: left of '.setCurrentfeeling' must have class/struct/union
+  c:\users\garred\desktop\cst 426 assignment 2\project1\project1\source.cpp(44): note: type is 'unknown-type'
+c:\users\garred\desktop\cst 426 assignment 2\project1\project1\source.cpp(44): error C2039: 'isHappy': is not a member of 'EmotionalStateMachine'
+  c:\users\garred\desktop\cst 426 assignment 2\project1\project1\source.cpp(6): note: see declaration of 'EmotionalStateMachine'
+c:\users\garred\desktop\cst 426 assignment 2\project1\project1\source.cpp(44): error C2065: 'isHappy': undeclared identifier
+c:\users\garred\desktop\cst 426 assignment 2\project1\project1\source.cpp(52): error C2061: syntax error: identifier 'sim'
+c:\users\garred\desktop\cst 426 assignment 2\project1\project1\source.cpp(54): error C2065: 'event': undeclared identifier
+c:\users\garred\desktop\cst 426 assignment 2\project1\project1\source.cpp(54): error C2065: 'RESTING': undeclared identifier
+c:\users\garred\desktop\cst 426 assignment 2\project1\project1\source.cpp(56): error C2065: 'mysim': undeclared identifier
+c:\users\garred\desktop\cst 426 assignment 2\project1\project1\source.cpp(56): error C2228: left of '.setCurrentfeeling' must have class/struct/union
+  c:\users\garred\desktop\cst 426 assignment 2\project1\project1\source.cpp(56): note: type is 'unknown-type'
+c:\users\garred\desktop\cst 426 assignment 2\project1\project1\source.cpp(56): error C2039: 'isHappy': is not a member of 'EmotionalStateMachine'
+  c:\users\garred\desktop\cst 426 assignment 2\project1\project1\source.cpp(6): note: see declaration of 'EmotionalStateMachine'
+c:\users\garred\desktop\cst 426 assignment 2\project1\project1\source.cpp(56): error C2065: 'isHappy': undeclared identifier
+c:\users\garred\desktop\cst 426 assignment 2\project1\project1\source.cpp(82): error C2061: syntax error: identifier 'Event'
+c:\users\garred\desktop\cst 426 assignment 2\project1\project1\source.cpp(74): error C2039: 'isHappy': is not a member of 'EmotionalStateMachine'
+  c:\users\garred\desktop\cst 426 assignment 2\project1\project1\source.cpp(6): note: see declaration of 'EmotionalStateMachine'
+c:\users\garred\desktop\cst 426 assignment 2\project1\project1\source.cpp(74): error C2065: 'isHappy': undeclared identifier
+c:\users\garred\desktop\cst 426 assignment 2\project1\project1\source.cpp(84): error C2065: 'theevent': undeclared identifier
+c:\users\garred\desktop\cst 426 assignment 2\project1\project1\source.cpp(103): error C2660: 'sim::eventhandler': function does not take 1 arguments
